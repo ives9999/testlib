@@ -1,0 +1,8 @@
+{
+    "name": "ives9999/testlib",
+    "description": "test lib",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "ives9999/testlib": "1.*"
+    }
+}

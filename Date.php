@@ -1,5 +1,5 @@
 <?php
-namespace bluemobile\lib;
+namespace ives9999\testlib;
 
 /**
  * @brief 日期時間物件
